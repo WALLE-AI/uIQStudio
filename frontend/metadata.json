@@ -1,0 +1,6 @@
+{
+  "name": "RadioCLIP 数据标注与分析平台",
+  "description": "面向无线电大模型 (Radio Foundation Model) 的 IQ 时域波形、时频图谱与文本配对标注与管理平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
